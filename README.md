@@ -1,8 +1,7 @@
-<div class="container">
 <h3>SmartBox Humidifier V3</h3><br>
   
 <img height="400" width="300" class="image-center" src="https://raw.githubusercontent.com/MadHack25/SmartBox-ArduinoV3/master/img/Step5%20-%20Programmed%20and%20Final%20Beta%20Look.jpg"></img>
-</div>
+
 <hr>
 <h4>Operable On Arduino Uno V3</h4>
 
